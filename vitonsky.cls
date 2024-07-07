@@ -5,7 +5,7 @@
 \RequirePackage{xcolor}
   \definecolor{accent}{HTML}{201D80}
   % \definecolor{accent}{RGB}{255, 221, 89}
-  \definecolor{link}{HTML}{201D80}
+  \definecolor{link}{HTML}{000000}
 \RequirePackage{graphicx}
 \RequirePackage{svg}
 \RequirePackage{microtype}
