@@ -3,9 +3,9 @@
 \ProvidesClass{vitonsky}[21/4/2021 0.1.0 Template for my documents]
 \LoadClass[12pt]{article}
 \RequirePackage{xcolor}
-  \definecolor{accent}{HTML}{801D1D}
+  \definecolor{accent}{HTML}{201D80}
   % \definecolor{accent}{RGB}{255, 221, 89}
-  \definecolor{link}{HTML}{370505}
+  \definecolor{link}{HTML}{201D80}
 \RequirePackage{graphicx}
 \RequirePackage{svg}
 \RequirePackage{microtype}
